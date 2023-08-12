@@ -1,1 +1,4 @@
-Hey whatsup guys 
+Hey whatsup guys
+Im gonna test out making a commit inside of vscode
+git commit
+Testing commits inside of git 
