@@ -2,3 +2,7 @@ Hey whatsup guys
 Im gonna test out making a commit inside of vscode
 git commit
 Testing commits inside of git 
+
+Whatsup guys im back again just wanted to see if I remember stuff about git
+git commit
+just doing my best
